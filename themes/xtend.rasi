@@ -6,7 +6,7 @@ font:                       "Google Sans Flex Regular 11";
 show-icons:                 true;
 display-drun: "" ;
 icon-theme:                 "Colloid";
-sidebar-mode:   false; 
+sidebar-mode:   false;
 drun-display-format: "{name}";
 }
 
@@ -92,6 +92,6 @@ text-color:                inherit;
 
 element selected {
 background-color:          @primary;
-text-color:                @on-primary-fixed;
+text-color:                @on-primary;
 border-radius:             6px;
 }

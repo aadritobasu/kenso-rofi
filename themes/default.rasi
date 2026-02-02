@@ -28,7 +28,7 @@ window {
     border-color:		 @secondary-container;
     border-radius:               15px;
     cursor:                      "default";
-    background-color:            @on-primary-fixed;
+    background-color:            @surface;
 }
 
 mainbox {
@@ -88,7 +88,7 @@ mode-switcher{
     enabled:                     true;
     spacing:                     20px;
     background-color:            transparent;
-    text-color:                  @primary-fixed;
+    text-color:                  @primary;
 }
 button {
     padding:                     15px;
@@ -142,8 +142,8 @@ element normal.active {
     text-color:                  @on-surface;
 }
 element selected.normal {
-    background-color:            @primary;
-    text-color:                  @on-secondary;
+    background-color:        	@primary;
+    text-color:             	@on-primary;
 }
 element selected.urgent {
     background-color:            @error;

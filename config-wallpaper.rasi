@@ -1,6 +1,6 @@
 configuration {
     modi:                        "drun";
-    font:                        "JetBrainsMono Nerd Font 10";
+    font:                        "Google Sans Flex Regular 11";
     show-icons:                  true;
     drun-display-format:         "{name}";
     hover-select:                true;

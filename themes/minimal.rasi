@@ -30,7 +30,7 @@ window {
     location:                center;
     anchor:                  center;
     width:                   40%;
-    background-color:        @on-primary-fixed;
+    background-color:        @surface;
     border-color:            @outline;
 }
 
@@ -132,8 +132,8 @@ element normal.urgent {
 
 /* Selected */
 element selected.normal {
-    background-color:        @primary-container;
-    text-color:              @on-primary-container;
+    background-color:        @primary;
+    text-color:              @on-primary;
 }
 
 element selected.active {
