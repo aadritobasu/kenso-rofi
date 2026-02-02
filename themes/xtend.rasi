@@ -1,4 +1,4 @@
-@import "/home/rick/.config/rofi/colors.rasi"
+@import "~/.config/rofi/colors.rasi"
 
 configuration {
 modi:                       "drun";
